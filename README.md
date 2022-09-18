@@ -2,7 +2,7 @@
   
 # Hello ✌
  
-- 🖱⌨Iniciante no universo da programação      <img align="right" top="200%" src="https://user-images.githubusercontent.com/112278577/190924283-648bcf8a-ce4d-488d-96d1-b829a013becf.gif">
+- 🖱⌨Iniciante no universo da programação           <img align="right" top="200%" src="https://user-images.githubusercontent.com/112278577/190924283-648bcf8a-ce4d-488d-96d1-b829a013becf.gif">
   
 - Em formação para Dev Front-End 👩‍🎓
  
