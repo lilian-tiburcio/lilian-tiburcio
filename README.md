@@ -1,16 +1,22 @@
-<h1 align="center">Hello ✌</h1>
- <img align="right"  src="https://user-images.githubusercontent.com/112278577/190924283-648bcf8a-ce4d-488d-96d1-b829a013becf.gif">
+<h1 align="center"> Olá :rabbit2:</h1>
+ <img align="left"  src="![image](https://user-images.githubusercontent.com/112278577/225727895-49ed0500-62ce-4aed-9487-bf3ad5ce40cf.png)">
 <h2>Sobre mim</h2>
 <p> 
 
-- 🖱⌨Iniciante no universo da programação 
+- 🖱⌨Iniciante no universo da programação. 
          
-- Formação Front-End certificada pela Alura em 10/2022 👩‍🎓
+- Formação Front-End certificada pela Alura. 👩‍🎓
 
-- Apaixonada por tecnologia e arte 🎨 
+- Apaixonada por tecnologia e arte. 🎨 
 
-- &#128204; São Paulo - SP 
-</p>
+- &#128204; São Paulo - SP. 
+ 
+ </p>
+ 
+ <h2>Portfólio atualizado </h2>
+ 
+:computer: https://lilian-tiburcio.github.io/liliantiburcio/
+
 
 <div>
 <h2>Tools 🛠</h2>
@@ -22,15 +28,6 @@
  ![GIT](https://camo.githubusercontent.com/2fc774b6f44efd9ac27316c539e0e94f8e524f872dc5b1c3ef60266a598331bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974)
  ![GitHub](https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562) 
 </div>
-
-
-  
-<h2>Learning 👩‍💻 </h2>
-
--  TypeScript ![icons8-typescript-24](https://user-images.githubusercontent.com/112278577/218786783-af0462f6-9d34-444f-8b47-1226a814105d.png) 
-- Vue.js ![icons8-vue js-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-24](https://user-images.githubusercontent.com/112278577/218786800-75ad9812-57f8-4192-88eb-efd8fcea872f.png) 
-- React.js ![icons8-react-16](https://user-images.githubusercontent.com/112278577/218786815-29c05302-96ac-45d5-a4ec-dc204159768c.png) 
-
 
 
 
