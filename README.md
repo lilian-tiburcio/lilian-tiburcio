@@ -1,18 +1,20 @@
-<h1 align="center"> Olá :rabbit2:</h1>
- <img align="left"  src="![image](https://user-images.githubusercontent.com/112278577/225727895-49ed0500-62ce-4aed-9487-bf3ad5ce40cf.png)">
-<h2>Sobre mim</h2>
+
+ <h1 align="center"> Olá :rabbit2:</h1> <img align="right" height="310em" 
+      src="https://user-images.githubusercontent.com/112278577/225733454-794e99fd-4e19-4310-bb2c-093d0be22dec.gif"/>
+ 
+ <h2>Sobre mim</h2>
+ 
 <p> 
 
 - 🖱⌨Iniciante no universo da programação. 
          
-- Formação Front-End certificada pela Alura. 👩‍🎓
-
+- Formação Front-End certificada pela Alura. 👩‍🎓             
 - Apaixonada por tecnologia e arte. 🎨 
 
 - &#128204; São Paulo - SP. 
  
  </p>
- 
+       
  <h2>Portfólio atualizado </h2>
  
 :computer: https://lilian-tiburcio.github.io/liliantiburcio/
